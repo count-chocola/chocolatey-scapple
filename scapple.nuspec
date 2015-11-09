@@ -1,0 +1,35 @@
+ï»¿<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if â€œÎ©â€ doesnâ€™t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <!-- Read this before publishing packages to chocolatey.org: https://github.com/chocolatey/chocolatey/wiki/CreatePackages -->
+    <id>scapple</id>
+    <title>scapple (Install)</title>
+    <version>1.0.0.0</version>
+    <authors>Literature &amp; Latte Ltd</authors>
+    <owners>private</owners>
+    <summary>an easy-to-use tool for getting ideas down as quickly as possible</summary>
+    <description>Scapple is an easy-to-use tool for getting ideas down as quickly as possible and making connections between them. It isn’t exactly mind-mapping software—it’s more like a freeform text editor that allows you to make notes anywhere on the page and to connect them using straight dotted lines or arrows. If you’ve ever scribbled down ideas all over a piece of paper and drawn lines between related thoughts, then you already know what Scapple does.
+    </description>
+    <projectUrl>https://www.literatureandlatte.com/scapple.php</projectUrl>
+    <packageSourceUrl>https://www.literatureandlatte.com/scapple.php</packageSourceUrl>
+    <!--<projectSourceUrl></projectSourceUrl>
+    <docsUrl></docsUrl>
+    <mailingListUrl></mailingListUrl>
+    <bugTrackerUrl></bugTrackerUrl>-->
+    <tags>scapple admin writing mindmap creative</tags>
+    <copyright></copyright>
+    <licenseUrl>https://www.literatureandlatte.com/scapple.php</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <!--<iconUrl>http://cdn.rawgit.com/__REPLACE_YOUR_REPO__/master/icons/scapple.png</iconUrl>-->
+    <!--<dependencies>
+      <dependency id="" version="__VERSION__" />
+      <dependency id="" />
+    </dependencies>-->
+    <releaseNotes>https://www.literatureandlatte.com/scrivWinChangeList.php</releaseNotes>
+    <!--<provides></provides>-->
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
