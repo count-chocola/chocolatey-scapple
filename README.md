@@ -1,7 +1,7 @@
 ## Vat?
 These files are ~~vat's~~ what's needed to locally package the lovely organization program [Scapple](https://www.literatureandlatte.com/scapple.php) for use with the [Chocolatey NuGet](https://chocolatey.org/) package manager.
 
-## Vhy?_
+## _Vhy?_
 Because:
 - Attended installations on Windows suck _(ah. ah. ahhh…)_.
 - You want to manage your PC using [Puppet](https://puppetlabs.com/presentations/puppet-windows-now-youre-getting-chocolatey) and a privately-hosted [Chocolatey Server](https://github.com/chocolatey/choco/wiki/How-To-Host-Feed).
